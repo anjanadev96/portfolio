@@ -18,6 +18,10 @@ body{
 h2,.white{
     color: #fff;
 }
+h3,.white{
+    color: #fff;
+}
+
 
 a{
     color: #7A7C80;
@@ -38,6 +42,10 @@ a{
 .section-1 h2{
     font-size: 1.7rem;
     margin-bottom: 10px;
+}
+.section-2 h3{
+    font-size: 1.4rem;
+    margin-bottom: 4px;
 }
 
 .section-1 a{
@@ -101,4 +109,8 @@ a{
         padding-left: 1.5rem;
         padding-top: 2rem;
     }
+}
+
+.fa fa-file{
+    size: 200px
 }
