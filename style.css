@@ -55,7 +55,7 @@ a{
 /* section 2 */
 .section-2{
     padding-top: 10vh;
-    width: 70%;
+    width: 95%;
 }
 
 .section-2 h2{
@@ -111,6 +111,3 @@ a{
     }
 }
 
-.fa fa-file{
-    size: 200px
-}
